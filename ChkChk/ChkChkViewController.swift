@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ChkChkViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
