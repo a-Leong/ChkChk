@@ -1,2 +1,2 @@
 # ChkChk
-Minimalist iOS todo app
+iOS todo app
